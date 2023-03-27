@@ -3,7 +3,7 @@ The source code of WCDForest
 将wcdforest包拷贝到/anaconda3/envs/tf1/lib/python3.7/site-packages下
 
 
-步骤：1.读取数据集并划分为训练集和测试集
+步骤：1.读取数据集并划分为训练集和测试集 \n
        3.加载配置文件data.json
           config = load_json("data.json")
        4.初始化wcdforest
